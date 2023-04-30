@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sukabumikode
+<h1> 👋 Hi, I’m @sukabumikode </h1>
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning laravel and nodejs
 - 📫 How to reach me sukabumikode@gmail.com

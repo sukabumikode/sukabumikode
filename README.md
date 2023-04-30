@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m @sukabumikode </h1>
+<h1 align="center"> 👋 Hi, I’m <a href="https://github.com/sukabumikode">sukabumikode</a> </h1>
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning laravel and nodejs
 - 📫 How to reach me sukabumikode@gmail.com
